@@ -5,7 +5,7 @@ import MainRoutes from './pages/routes/MainRoutes'
 
 const App = () => {
   return (
-    <div className='h-screen w-screen text-2xl py-6 px-[2%] bg-gray-100 text-black '>
+    <div className='h-screen w-screen text-2xl py-6 px-[2%]  text-black '>
      <Navbar/>
      <MainRoutes/>
     </div>
